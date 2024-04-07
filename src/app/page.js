@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -38,7 +39,7 @@ export default function Home() {
           priority
         />
         <h1 className="font-mono text-xl text-center">Welcome to Iguru <br /><span className="text-sm">/iˈɡuːruː/ (pronounced as 'ee-goo-roo')</span> </h1>
-        <h1 className="font-mono text-xl text-center">Africa's Center of Commerce</h1>
+        <h1 className="font-mono text-xl text-center">Africa's Center of Commerce <a className="text-blue-600 font-bold" href="#">#igurumarketplace</a></h1>
       </div>
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         {/* <a
