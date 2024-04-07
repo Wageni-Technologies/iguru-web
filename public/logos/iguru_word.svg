@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="423.09476"
+   height="88.395973"
+   viewBox="0 0 250 52.231782"
+   class="looka-1j8o68f"
+   version="1.1"
+   id="svg77"
+   sodipodi:docname="iguru.svg"
+   inkscape:export-filename="iguru.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview79"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <defs
+     id="SvgjsDefs3331" />
+  <g
+     id="SvgjsG3333"
+     featurekey="6sJQsk-0"
+     transform="matrix(3.5628777,0,0,3.5628777,-5.1305439,-19.025761)"
+     fill="#111111"
+     inkscape:export-filename="iguru_word.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       d="M 6.02,12.72 4.8,13.8 V 20 H 2.66 V 13.8 L 1.44,12.72 2.66,11.66 V 5.34 H 4.8 v 6.32 z m 16.452,4.84 -2.74,2.44 h -5.2 l -2.74,-2.44 v -3.78 l -1.22,-1.06 1.22,-1.08 V 7.78 l 2.74,-2.44 h 5.16 l 2.74,2.44 0.04,3.06 h -2.14 V 8.9 l -1.52,-1.42 h -3.36 l -1.52,1.32 v 7.74 l 1.52,1.32 h 3.36 l 1.52,-1.42 v -1.56 h -2.84 v -2.14 h 4.98 z m 17.212,-4.84 -1.22,1.06 v 3.76 L 35.724,20 h -5.2 l -2.74,-2.46 v -3.76 l -1.22,-1.06 1.22,-1.08 v -6.3 h 2.14 v 11.18 l 1.52,1.34 h 3.36 l 1.52,-1.34 V 5.34 h 2.14 v 6.3 z M 54.756,20 h -2.32 l -3.06,-6.2 h -2.62 V 20 h -2.14 v -6.2 l -1.22,-1.08 1.22,-1.06 V 5.34 h 7.08 l 2.38,2.76 v 2.94 l -2.38,2.76 z m -2.82,-9.88 V 9 l -1.26,-1.5 h -3.92 v 4.16 h 3.92 z m 19.672,2.6 -1.22,1.06 v 3.76 L 67.648,20 h -5.2 l -2.74,-2.46 v -3.76 l -1.22,-1.06 1.22,-1.08 v -6.3 h 2.14 v 11.18 l 1.52,1.34 h 3.36 l 1.52,-1.34 V 5.34 h 2.14 v 6.3 z"
+       id="path74" />
+  </g>
+</svg>
