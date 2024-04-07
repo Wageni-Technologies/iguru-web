@@ -37,8 +37,9 @@ export default function Home() {
           height={37}
           priority
         />
-        <h1 className="font-mono text-xl text-center">Welcome to Iguru <br /><span className="text-sm">/iˈɡuːruː/ (pronounced as 'ee-goo-roo')</span> </h1>
-        <h1 className="font-mono text-xl text-center">Africa's Center of Commerce </h1>
+        <h1 className="font-mono text-xl text-center font-bold">Welcome to Iguru <br /><span className="text-sm">/iˈɡuːruː/ (pronounced as 'ee-goo-roo')</span> </h1>
+        <h1 className="font-mono text-xl text-center font-bold">Africa's Center of Commerce </h1>
+        <p className="font-mono text-xl text-center">Coming Soon!!</p>
       </div>
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         {/* <a
