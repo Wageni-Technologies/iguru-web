@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "IGURU | Africa's Center of Commerce",
-  description: "Building Africa's Largest Marketplace for Businesses and Professional Services.",
+  description: "Africa's Center of Commerce",
 };
 
 export default function RootLayout({ children }) {
