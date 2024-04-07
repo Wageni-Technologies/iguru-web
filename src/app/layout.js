@@ -18,7 +18,13 @@ export default function RootLayout({ children }) {
         <link rel="manifest" href="/site.webmanifest"></link>
         <meta name="google-site-verification" content="BQhlIoHEdi9Jla7JWTlKbQG2R5F1le8aXCvu8kudInU" />
       </head>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        {children}
+        {/* I can't wait what will become of you */}
+        {/* Be blessed and bless the people you serve */}
+        {/* Emmanuel Columbus Mugenyi */}
+        {/* Date: 7th April, 2024 19:54*/}
+      </body>
     </html>
   );
 }
